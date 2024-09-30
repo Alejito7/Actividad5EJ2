@@ -21,6 +21,7 @@ public class ACT2EJ2 {
         objCaballo.setDeporte("Polo");
         objCaballo.mostrarDatos();
          
-      
+        System.out.println("Para probar git");
+       
     }
 }
