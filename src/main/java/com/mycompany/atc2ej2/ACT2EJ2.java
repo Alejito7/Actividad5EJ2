@@ -22,6 +22,7 @@ public class ACT2EJ2 {
         objCaballo.mostrarDatos();
          
         System.out.println("Para probar git");
-       
+       System.out.println("Para probar git");
+    
     }
 }
